@@ -73,10 +73,10 @@ a {
     color: #fcbf60;
 }
 .clr1 {
-    color: #00ff11;
+    color: #fa6f6f;
 }.clr1 small {
     font-size: 2rem;
-    color: #ffffff;
+    color: #fa6f6f;
 }.clr2 small {
     font-size: 1.8rem;
     color: #69d7ee;
@@ -85,7 +85,7 @@ a {
 
 
 }#content {
-    background: #09ff00;
+    background: #fa6f6f;
 }
 .well {
     padding: 94px 0 95px;
@@ -220,15 +220,6 @@ h3 {
     padding-top: 48px;
 }
 
-
-.box1_cnt {
-    position: absolute;
-    top: 68px;
-    right: 40px;
-    bottom: 0;
-    left: 40px;
-    display: none;
-}
 
 
 
