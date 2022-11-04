@@ -63,6 +63,7 @@ a {
     transition: .3s all ease;
     text-decoration: none;
     color: inherit;
+    width: 7em;
 }
 
 .clr2 {
@@ -85,7 +86,7 @@ a {
 
 
 }#content {
-    background: #09ff00;
+    background: #6a7c69;
 }
 .well {
     padding: 94px 0 95px;
@@ -100,6 +101,8 @@ h2 {
     font-size: 67px;
     line-height: 101px;
     text-align: center;
+    font-style: oblique;
+    font-family: cursive;
 }
 h2 span {
     font-weight: 280;
